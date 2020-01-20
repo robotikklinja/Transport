@@ -1,5 +1,5 @@
-Ting som må inn i READ.me:
-• Fremgangsplan
-• Introduksjon til prosjekt
-• Oversikt over hva som er gjort
-• Intro til PLS program
+##Ting som må inn i READ.me:
++ Fremgangsplan
++ Introduksjon til prosjekt
++ Oversikt over hva som er gjort
++ Intro til PLS program
