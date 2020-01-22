@@ -15,6 +15,7 @@ og se tutorial på youtube. Vi har satt opp en testrigg til I/O modul sånn at v
 
 
 - ##  Intro til PLS program
+PLS progammet heter TwinCat 3, og er vanskeliger å bruke enn logosoft. Derfor må man investere en del tid for å lære seg å bruke programmet. Det er problemer med tilkoblinger imellom Pc-en og Modulen. 
 
 
 
