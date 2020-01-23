@@ -1,6 +1,6 @@
 # Transportbånd
 
-[Transportbånd](Oversiktsbilde av transportbånd.jpg)
+![Transportbånd](Oversiktsbilde_av_transportbånd.jpg)
 
 - ##  Introduksjon
 I dette prosjektet er målet å få transportbåndet (på lageret mellom 1ELR og 2ELR) i gang. Prosjektet innvolverer en blanding av pneumatikk, og elektronikk. Målet er at båndet skal være automatisk og selvstyrt, vi har sensorer og de fleste andre deler som er nødvendige for at båndet skal fungere. 
