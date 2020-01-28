@@ -7,6 +7,8 @@ I dette prosjektet er målet å få transportbåndet (på lageret mellom 1ELR og
 - ## Fremgangsplan
   - Få transportbåndet i gang ✔️
   - Få luft i sylinderne ✔️
+  - Finne ut hva som mangler av deler og lignende
+  - Lage alle tegninger til transportbåndet
   - Få koblet opp sensorene
   - Få koblet ferdig skap 2
   - Lage PLS program
