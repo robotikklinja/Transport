@@ -24,3 +24,24 @@ og se tutorial på youtube. Vi har satt opp en testrigg til I/O modul sånn at v
 
 - ##  Intro til PLS program
 PLS progammet heter TwinCat 3, og er vanskeligere å bruke enn logosoft. Derfor må man investere en del tid for å lære seg å bruke programmet. Det er problemer med tilkoblinger mellom PC-en og modulen. 
+
+
+
+ - ## ventil symbol 
+ ![](Images/20200130_140132.jpg)
+ det lille rektangelet nederst til venstre med en skrå strek. den rektangelen representerer spolen. en kabel kobles vanelig vis i toppen av rekktngelen og i bunnen. når spolen er på kan luften gå gjennom ventilen og sendes videre til pnumatikk sylynderen på toppen av tegningen.. som dytter da sylynderen på toppen. og dytter den tilbake hvis den andre firkanten med kretsen byttes. den andre firkanten med kretsen kan bytes. vis man vrir på bryteren. det er en sik sak form/fjær nede i høyere hjørne. det er en fjær som dytter tilbake firkantene. og får ventilen til å gå tilbake til sin vanelige tilstand. pilene i firkanten sier hvor luften går. den går fra press til domp. da vil trykket fra press gå gjennom til den ene siden og dytte pnumatikk sylynderen en vei. og når den andre firkanten blir slåt ut av fjæren så vil pnumatikk sylinderen få trykk andre veien og gå tilbake til sin orginale tilstand. 
+
+ 
+ 
+ - ## codesys
+ codesys bruker vi nå isteden for twincat 3. Fordi man ikke trenger bechoff skjermen. https://store.codesys.com/ link. vi hadde problemer med bechoff skjermen. med codesys så kan vi bruke pc uten bechoff skjermen, men du skal fortsatt bruke I/O modulen som er festet til bechoff skjermen.  
+ 
+ 
+ - ## pc, bechoff skjerm og I/O modul  ![](Images/20200130_135441.jpg)
+
+ 
+ 
+ 
+ 
+
+ 
